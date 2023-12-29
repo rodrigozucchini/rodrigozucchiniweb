@@ -1,0 +1,112 @@
+.back-testimonio {
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    padding-top: 150px;
+    background-color: #012030;
+}
+
+.title-testimonio {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 100px;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+    font-family: Gotham Book, sans-serif;
+}
+
+.div-testimonio {
+    display: flex;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.card-testimonio {
+    display: flex;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.img-testimonio {
+    width: 65%;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+@media only screen and (max-width: 1990px) {
+   
+    .back-testimonio {
+        padding-top: 100px;
+    }
+    
+    .img-testimonio {
+        width: 85%;
+        height: auto;
+        border: 2px solid black;
+        border-radius: 10px;
+    }
+
+}
+
+@media only screen and (max-width: 1400px) {
+   
+    .back-testimonio {
+        padding-top: 80px;
+    }
+    
+    .div-testimonio {
+        display: flex;
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+    }
+
+    .title-testimonio {
+        font-size: 70px;
+    }
+
+    .card-testimonio {
+        display: flex;
+        width: 100%;
+        height: auto;
+        align-items: center;
+        justify-content: space-evenly;
+        padding: 10px;
+        margin: 20px;
+    }
+    
+    .img-testimonio {
+        width: 65%;
+        height: auto;
+        border: 2px solid black;
+        border-radius: 10px;
+    }
+
+}
+
+@media only screen and (max-width: 900px) {
+
+    .title-testimonio {
+        font-size: 20px;
+        padding-bottom: 10px;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .img-testimonio {
+        width: 85%;
+    }
+
+}

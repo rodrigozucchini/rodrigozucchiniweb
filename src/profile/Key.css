@@ -1,0 +1,58 @@
+.back-key {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    background-color: white;
+}
+
+.div-key {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.h1-key{
+    font-size: 50px;
+    font-family: Gotham Book, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 20px;
+}
+
+.p-key {
+    font-size: 25px;
+    font-family: Gotham Book, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+@media only screen and (max-width: 1900px) {
+    
+    .h1-key{
+        font-size: 40px;
+    }
+    
+    .p-key {
+        font-size: 20px;
+    }
+    
+
+}
+
+@media only screen and (max-width: 1500px) {
+    
+    .h1-key{
+        font-size: 30px;
+    }
+    
+    .p-key {
+        font-size: 20px;
+    }
+    
+
+}

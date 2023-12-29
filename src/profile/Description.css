@@ -1,0 +1,85 @@
+.div-back-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  margin-top: 100px;
+  flex-direction: column;
+}
+
+.profile-back-title {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: black;
+    background-color: #e6cf32;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    font-family: Gotham Book, sans-serif;
+}
+
+.alto-vuelo-div {
+  display: flex;
+  margin-top: 70px; 
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.alto-vuelo-img{
+  width: 60%;
+  height: auto;
+}
+
+@media only screen and (max-width: 1700px) {
+
+  .div-back-title {
+    margin-top: 30px;
+  }
+
+  .profile-back-title {
+    font-size: 40px;
+}
+
+}
+
+@media only screen and (max-width: 1360px) {
+
+  .profile-back-title {
+    font-size: 35px;
+}
+.alto-vuelo-img{
+  width: 95%;
+  height: auto;
+}
+}
+
+@media only screen and (max-width: 750px) {
+
+  .profile-back-title {
+    font-size: 25px;
+}
+.alto-vuelo-img{
+  width: 95%;
+  height: auto;
+}
+}
+
+@media only screen and (max-width: 500px) {
+
+  .profile-back-title {
+    font-size: 20px;
+}
+.alto-vuelo-img{
+  width: 98%;
+  height: auto;
+}
+.alto-vuelo-div {
+  margin-top: 20px; 
+}
+}
