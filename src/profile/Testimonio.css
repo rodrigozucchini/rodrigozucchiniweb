@@ -32,7 +32,7 @@
 
 .card-testimonio {
     display: flex;
-    width: 100%;
+    width: 80%;
     height: auto;
     align-items: center;
     justify-content: space-evenly;
@@ -60,8 +60,10 @@
 
 }
 
-@media only screen and (max-width: 1400px) {
-   
+
+
+@media only screen and (max-width: 900px) {
+
     .back-testimonio {
         padding-top: 80px;
     }
@@ -94,19 +96,5 @@
         border-radius: 10px;
     }
 
-}
-
-@media only screen and (max-width: 900px) {
-
-    .title-testimonio {
-        font-size: 20px;
-        padding-bottom: 10px;
-        margin: 0;
-        padding: 0;
-    }
-    
-    .img-testimonio {
-        width: 85%;
-    }
 
 }
