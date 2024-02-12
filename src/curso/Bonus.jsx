@@ -26,4 +26,4 @@ const Bonus = () => {
 }
 
 
-export default Bonus;
+export default Bonus; 
