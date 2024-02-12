@@ -10,7 +10,7 @@
 .title-testimonio {
     margin: 0;
     padding: 0;
-    padding-bottom: 100px;
+    padding-bottom: 80px;
     justify-content: center;
     align-items: center;
     font-size: 50px;
@@ -28,12 +28,12 @@
     height: auto;
     align-items: center;
     justify-content: space-around;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 .card-testimonio {
     display: flex;
-    width: 80%;
+    width: 70%;
     height: auto;
     align-items: center;
     justify-content: space-evenly;
