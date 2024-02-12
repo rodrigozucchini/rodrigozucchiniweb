@@ -40,11 +40,6 @@ export const Profile = () => {
 
   return (
       <>
-      {isWideScreen2 && (
-        <div className='landing-banner'>
-              <p className='landing-banner-p'>💸 Llegó Alto Vuelo 💸 Webs exclusivas para Emprenedores que quieran llevar su Marca Personal al siguiente nivel⏰Exclusivo 50%⏰</p>
-        </div>
-)}
 {!isWideScreen2 && (
           <>
           </>
@@ -61,10 +56,6 @@ export const Profile = () => {
             <h1 className='name-title'>SOY <span className='name-title-b'>RODRIGO ZUCCHINI</span>,<br/> DESARROLLADOR WEB</h1>
           </div>
 )}
-      </div>
-      <div className='a-button-div'>
-        <a className='a-button' href="https://wa.link/yaw0tq">Landing Page de alto vuelo</a>
-        <a className='a-button' href="https://wa.link/yaw0tq">Quiero Asesoria una Gratuita</a>
       </div>
       </>
   )

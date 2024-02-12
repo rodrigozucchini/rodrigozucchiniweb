@@ -38,7 +38,7 @@
 }
 
 .profile-div {
-    background-color: #012030;
+  background-color: #011126;
     position: relative;
     width: 100%;
     height: auto;
@@ -47,6 +47,7 @@
     flex-direction: column;
     padding: 0;
     margin: 0;
+    padding-bottom: 100px;
 }
 
 
@@ -101,7 +102,7 @@
 }
 
 .a-button-div {
-    background-color: #012030;
+  background-color: #011126;
     padding-top: 30px;
     padding-bottom: 30px;
     display: flex;
@@ -115,7 +116,7 @@
     display: flex;
     width: 450px;
     height: 60px;
-    background-color: #1D3A4D;
+    background-color: #011126;
     color: white;
     text-decoration: none;
     text-transform: uppercase;
@@ -139,7 +140,7 @@
 
 @media only screen and (max-width: 720px) {
 .profile-div {
-  background-color: #012030;
+  background-color: #011126;
   position: relative;
   width: 100%;
   height: auto;
@@ -200,7 +201,7 @@
 }
 
 .a-button-div {
-  background-color: #012030;
+  background-color: #011126;
   padding-top: 20px;
   padding-bottom: 20px;
   display: flex;
@@ -220,7 +221,7 @@
     display: flex;
     width: 350px;
     height: 60px;
-    background-color: #1D3A4D;
+    color: black;
     color: white;
     text-decoration: none;
     text-transform: uppercase;
@@ -250,7 +251,7 @@
     display: flex;
     width: 90%;
     height: 60px;
-    background-color: #1D3A4D;
+    color: black;
     color: white;
     text-decoration: none;
     text-transform: uppercase;

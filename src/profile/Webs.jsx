@@ -2,9 +2,14 @@ import React, { useState, useEffect } from 'react';
 import client1 from '../assets/client1.png'
 import client2 from '../assets/client2.png'
 import client3 from '../assets/client3.png'
+
 import client4 from '../assets/client1b.png'
 import client5 from '../assets/client2b.png'
 import client6 from '../assets/client3b.png'
+
+import client7 from '../assets/client4.png'
+import client8 from '../assets/client5.png'
+
 import './Webs.css'
 import { ButtonAsesoria } from './ButtonAsesoria'
 
@@ -83,6 +88,41 @@ export const Webs = () => {
                     </div>
                 <img className='diferent-webs-img' src={client3}/>
             </div>
+
+            <div className='diferent-webs'>
+                    <div  className='diferent-webs-h1-div'>
+                        <h1  className='diferent-webs-h1'>
+                        Profit Zone
+                        </h1>
+                        <p  className='diferent-webs-p'>
+                        ✅Adaptada a diferentes dispositivos <br />
+                        ✅Colores Personalizados  <br />
+                        ✅Testimonios y Resultados  <br />
+                        ✅Dominio Propio  <br />
+                        ✅Videos e Imagenes  <br />
+                        ✅Botones de Redireccionamiento<br />
+                        </p>
+                    </div>
+                <img className='diferent-webs-img' src={client7}/>
+            </div>
+
+            <div className='diferent-webs'>
+                    <div  className='diferent-webs-h1-div'>
+                        <h1  className='diferent-webs-h1'>
+                        Incruises Team
+                        </h1>
+                        <p  className='diferent-webs-p'>
+                        ✅Adaptada a diferentes dispositivos <br />
+                        ✅Colores Personalizados  <br />
+                        ✅Testimonios y Resultados  <br />
+                        ✅Dominio Propio  <br />
+                        ✅Videos e Imagenes  <br />
+                        ✅Botones de Redireccionamiento<br />
+                        </p>
+                    </div>
+                <img className='diferent-webs-img' src={client8}/>
+            </div>
+
         </div>
         </>
       )}
@@ -141,6 +181,7 @@ export const Webs = () => {
                     </div>
                 <img className='diferent-webs-img' src={client6}/>
             </div>
+
         </div>
         </>
       )}

@@ -26,10 +26,12 @@ export const Story = () => {
       <div  className="story-div-text">
           <p className="story-text">
               <b>En el ámbito laboral:</b><br/>
-              Me desempeño como Data Entry, donde la precisión y la atención al detalle son fundamentales. <br/><br/>
+              Me desempeño como Data Entry, donde la precisión y la atención al detalle son fundamentales. <br/>
+              Me desempeño como Frontend Dev, en FISEL MEXICO (trabajo remoto).<br/><br/>
               <b>Emprendimiento:</b><br/>
               Diseño y desarrollo landing pages que no solo son visualmente atractivas, sino también funcionales y efectivas.<br/>
               Si estás buscando potenciar tu presencia en línea con una landing page impactante ¡estás en el lugar correcto✋!<br/>
+              Ayudo a personas sin conocimiento de programacion a insertarse en este maravilloso mundo, con asesorias personalizadas y actividades 1 vs 1<br/>
               <br/><br/>
               ¡Vamos a construir juntos algo grandioso🤙!
           </p>

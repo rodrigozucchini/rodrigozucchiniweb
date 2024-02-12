@@ -1,0 +1,89 @@
+.bonus-div {
+    background-color: #011126;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.title-bonus {
+    margin-top: 100px;
+    color: #F5d757;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Nunito', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding: 29px 30px 0px;
+    text-shadow: 0px 0px 5px #508AD3;
+}
+
+.primer-bonus {
+    margin-left: 280px;    
+    margin-top: 50px; 
+    margin-bottom: 80px; 
+    margin-right: 280px; 
+    color: #F2F2F0;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 5px;
+    text-align: justify;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+
+@media only screen and (max-width: 1810px) {
+
+    .primer-bonus {
+        font-size: 22px;
+    }
+
+}
+
+@media only screen and (max-width: 1205px) {
+    .primer-bonus {
+        margin-left: 100px;    
+        margin-right: 100px; 
+    }
+    .title-bonus {
+        margin-top: 0;
+    }
+}
+
+@media only screen and (max-width: 950px) {
+    .title-bonus {
+        font-size: 40px;
+    }
+    
+    .primer-bonus {
+        font-size: 22px;
+    }
+
+}
+
+@media only screen and (max-width: 850px) {
+    .title-bonus {
+        font-size: 35px;
+    }
+    
+    .primer-bonus {
+        font-size: 18px;
+        margin-left: 50px;    
+        margin-right: 50px; 
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .title-bonus {
+        font-size: 30px;
+    }
+    
+    .primer-bonus {
+        font-size: 18px;
+        margin-left: 20px;    
+        margin-right: 20px; 
+    }
+
+}
