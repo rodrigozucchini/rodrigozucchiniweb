@@ -35,7 +35,7 @@ export const Webs = () => {
       window.addEventListener('resize', handleResize);
   
       // Limpieza: desuscribirse del evento cuando el componente se desmonta
-      return () => {
+      return () => { 
         window.removeEventListener('resize', handleResize);
       };
     }, []);
