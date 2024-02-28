@@ -24,7 +24,7 @@ export const Planes = () => {
         </div>
         <p className="card-mensaje">
         Incluye:<br/>
-         <b>2 clases por semana de 2 horas cada uno (32 horas mensuales)</b><br/>
+         <b>2 clases por semana de 2 horas cada uno</b><br/>
         <b>Actividades despues de clase a entregar entre cada clase</b><br/>
         <b>Mentoria personalizada para cada alumno</b><br/>
         <b>Proyectos a realizar Profesionales cuando dominemos algunos conceptos</b><br/>
