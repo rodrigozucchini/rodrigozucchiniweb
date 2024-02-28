@@ -61,7 +61,7 @@ alguno de los botones de compra con fondo verde que están en la página.
             <br />
             Tener una laptop o computadora de escritorio.
             <br />
-            Dedicar sólo 4 horas semanales para sentarte y estudiar cada módulo, te pregunto ¿no dedicarías solo 4 de las 168 horas que tiene la semana para ti mismo?
+            Dedicar sólo 6 horas semanales para sentarte y estudiar cada módulo, te pregunto ¿no dedicarías solo 6 de las 168 horas que tiene la semana para ti mismo?
             <br />
             <br />
             El 99% dice QUERER ser libres y prósperos, sólo el 1% se hace responsable de su futuro y toma acción inmediata.

@@ -6,9 +6,9 @@ const Bonus = () => {
   return (
     <div className='bonus-div'>
     
-    <h1 class='title-bonus'>¡OBJETIVO DEL CURSO!</h1>
+    <h1 class='title-bonus'>¡OBJETIVO DEL PROGRAMA!</h1>
 <p class='primer-bonus'>
-   <b>¡Alcanza el entendimiento en programación en solo 3 meses!</b><br /><br />
+   <b>¡Alcanza el entendimiento en programación, logica, algoritmos, datos, en tan solo 1 año!</b><br /><br />
    Domina los conceptos esenciales y todos los módulos detallados en tiempo récord.<br /><br />
    Conviértete en un programador altamente demandado y con habilidades valoradas en el mercado laboral global.<br /><br />
 </p>

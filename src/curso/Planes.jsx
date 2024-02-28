@@ -6,24 +6,30 @@ export const Planes = () => {
     <div className="back-card">
         <div className="card">
             <h1 className="card-text">PRECIO NORMAL</h1>
-            <p className="card-calendary">No disponible por la oferta actual de $210 usd</p>
-            <p className="card-price">$700 USD</p>
+            <p className="card-calendary">No disponible por la oferta actual de $150 usd</p>
+            <p className="card-price">$499 USD</p>
             <div className="card-div-button">
                 <button className="card-button">PRECIO NO DISPONIBLE</button>
             </div>
         </div>
         <div className="card-3">
             <h1 className="card-text-3">PRECIO OFERTA</h1>
-            <p className="card-calendary">El precio incluye <br/>los tres meses de contenido, actividades y clases</p>
-            <p className="card-price-yes-3">$210 USD</p>
+            <p className="card-calendary">Precio por mes</p>
+            <p className="card-price-yes-3">$150 USD</p>
             <div className="card-div-button">
-                <a className="card-button-yes-3" target="_blank" href="https://walink.co/e3f56e">
+                <a className="card-button-yes-3" target="_blank" href="https://wa.link/yaw0tq">
                     ¡Quiero unirme al Programa ahora!
                 </a>
             </div>
         </div>
         <p className="card-mensaje">
-        Todo el programa se llevara a cabo por <b>3 meses por sólo 210 usd, osea 70 usd por mes.</b><br/>
+        Incluye:<br/>
+         <b>2 clases por semana de 2 horas cada uno (32 horas mensuales)</b><br/>
+        <b>Actividades despues de clase a entregar entre cada clase</b><br/>
+        <b>Mentoria personalizada para cada alumno</b><br/>
+        <b>Proyectos a realizar Profesionales cuando dominemos algunos conceptos</b><br/>
+        <b>Revision de codigo</b><br/>
+        <b>BONUS: proyecto de simulacion de trabajo real</b><br/>
         Oferta disponible solo por 30 días
         </p>
     </div>
