@@ -19,7 +19,7 @@ export const Story = () => {
               <br/>
               <li>Apasionado por el fútbol ⚽y el código🧩, soy autodidacta en constante búsqueda de conocimiento.</li>
               <br/>
-              <li>Mi viaje en el mundo de la programación comenzó hace cuatro años.</li>
+              <li>Mi viaje en el mundo de la programación comenzó hace cinco años.</li>
           </p>
       </div>
       <h1 className="title-story"><i>Acerca</i></h1>

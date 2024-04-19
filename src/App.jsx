@@ -31,7 +31,7 @@ function App() {
       <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/coaching" element={<Coaching />} />
+        <Route path="/tuweb" element={<Coaching />} />
         <Route path="/me" element={<Me />} />
       </Routes>
     </HashRouter>

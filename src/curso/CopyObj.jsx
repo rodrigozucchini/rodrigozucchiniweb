@@ -19,7 +19,6 @@ const CopyObj = () => {
             <li>Tu trabajo no te da lo suficiente para cumplir tus sueños y/o metas.</li>
             <li>Tienes un futuro incierto.</li>
             <li>Quieres trabajar desde tu casa y en proyectos retadores.</li>
-            <li>Adivina adivinador.. esto puede ser para ti, en unos años gracias a una decision peudes cambiar tu estilo de vida.</li>
         </ul>
         <p className='tercer-copy'>    
             Detalles:<br />

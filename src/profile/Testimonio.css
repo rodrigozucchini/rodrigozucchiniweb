@@ -33,14 +33,14 @@
 
 .card-testimonio {
     display: flex;
-    width: 70%;
+    width: 50%;
     height: auto;
     align-items: center;
     justify-content: space-evenly;
 }
 
 .img-testimonio {
-    width: 65%;
+    width: 60%;
     height: auto;
     border: 2px solid black;
     border-radius: 10px;
